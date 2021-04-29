@@ -1,5 +1,3 @@
-![08](https://user-images.githubusercontent.com/72893960/116575967-1f38ff80-a8dd-11eb-827a-95df9e32ebd7.jpg)
-
 
 
 ### Hi, My name is André
