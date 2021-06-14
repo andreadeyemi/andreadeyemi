@@ -36,4 +36,4 @@ My focus these days is building accessible, inclusive digital experiences and co
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andre-adeyemi//)  
 
-![Profile views](https://gpvc.arturio.dev/andreadeyemi)
+
